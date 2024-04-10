@@ -35,7 +35,7 @@ I used the following technologies in this project:
     =======> Use of RBAC(Role Based Authorization Control)-based User Authorization for Cat's create, update, and delete.
 
 
-Finally, We added screenshots, database(database.sql file), and postman API JSON files to the images folder of the project.
+Finally, I added screenshots, database(database.sql file), and postman API JSON files to the images folder of the project.
 
 Thanks for your attention.
 
